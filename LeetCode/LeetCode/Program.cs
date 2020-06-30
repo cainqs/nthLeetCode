@@ -12,7 +12,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            SortQuestions.InsertionSortRun();
+            SortQuestions.MergeSortRun();
 
             Console.ReadLine();
         }
